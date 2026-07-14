@@ -46,7 +46,7 @@ Ingénieur DevOps et Systèmes avec une expérience dans le déploiement, la sup
 
 #### **Professional & Cloud**
 <div align="left">
-  <img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="80" title="CompTIA Security+">
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c3fbae73-3738-43ac-bd4f-6029fb54925e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   <img src="https://images.credly.com/images/7404ca0d-98e1-48b6-a2a3-de8d7dcd85b5/blob" width="80" title="LFS250: Kubernetes and Cloud Native Essentials">
   <img src="https://images.credly.com/images/4251ab91-6d67-47da-801c-855c0bbc6cc3/blob" width="80" title="AWS Cloud Ops">
   <img src="https://images.credly.com/images/fc6fa322-80f4-45a5-9def-91e9bcfde837/blob" width="80" title="AWS Security">
