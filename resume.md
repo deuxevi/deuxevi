@@ -42,8 +42,6 @@ Ingénieur DevOps et Systèmes avec une expérience dans le déploiement, la sup
 
 ---
 
-### **Badges & Certifications (Credly)**
-
 #### **Professional & Cloud**
 <div align="left">
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c3fbae73-3738-43ac-bd4f-6029fb54925e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
