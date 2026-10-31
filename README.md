@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=50&lines=Salut%2C+moi+c%27est+dEUS;Ing%C3%A9nieur+DevOps+%2F+Cloud+%C3%A0+Lom%C3%A9;Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Jenkins;Observabilit%C3%A9+%3A+Prometheus+%E2%80%A2+Grafana+%E2%80%A2+Loki;S%C3%A9curit%C3%A9+%26+IAM+%3A+Keycloak+%E2%80%A2+CompTIA+Security%2B" alt="Typing SVG" />
+</div>
+
+###
+
 <h5 align="left">
   Hello World ! Moi c'est <strong>dEUS</strong> — Ingénieur DevOps / Cloud basé à Lomé, Togo 🇹🇬, passionné par le déploiement, la supervision et la sécurisation d'infrastructures fiables et scalables. <br><br>
   Conteneurisation, pipelines CI/CD, observabilité, gestion d'identité centralisée — si ça touche à l'infra, je suis dedans. Cet espace est l'endroit où je partage mes <strong>projets</strong>, mes <strong>certifications</strong> et un bout de mon quotidien tech. <br><br>
@@ -6,14 +12,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deuxevi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=fr&hide_border=true&custom_title=Stats" height="120" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=deuxevi&locale=fr&mode=daily&theme=dark&hide_border=false&border_radius=8" height="120" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deuxevi&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&custom_title=Langages" height="120" alt="languages graph"  />
+  <img src="./profile/stats.svg" height="120" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=deuxevi&locale=fr&mode=daily&theme=dark&hide_border=true&border_radius=8" height="120" alt="streak graph"  />
+  <img src="./profile/top-langs.svg" height="120" alt="languages graph"  />
 </div>
-
-###
-
-<img align="left" height="150" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"  />
 
 ###
 
