@@ -42,32 +42,6 @@ Ingénieur DevOps et Systèmes avec une expérience dans le déploiement, la sup
 
 ---
 
-#### **Professional & Cloud**
-<div align="left">
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c3fbae73-3738-43ac-bd4f-6029fb54925e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-  <img src="https://images.credly.com/images/7404ca0d-98e1-48b6-a2a3-de8d7dcd85b5/blob" width="80" title="LFS250: Kubernetes and Cloud Native Essentials">
-  <img src="https://images.credly.com/images/4251ab91-6d67-47da-801c-855c0bbc6cc3/blob" width="80" title="AWS Cloud Ops">
-  <img src="https://images.credly.com/images/fc6fa322-80f4-45a5-9def-91e9bcfde837/blob" width="80" title="AWS Security">
-  <img src="https://images.credly.com/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob" width="80" title="AWS Cloud 101">
-  <img src="https://images.credly.com/images/f5095707-7683-4886-940c-3e8e4a2085ca/blob" width="80" title="AWS Networking">
-  <img src="https://images.credly.com/images/7b08cc0e-064b-407d-b70e-323509c3e474/blob" width="80" title="AWS Compute">
-  <img src="https://images.credly.com/images/3b1b42e6-dfc2-492b-90df-8058096cb93d/blob" width="80" title="AWS Storage">
-  <img src="https://images.credly.com/images/a08cf90b-9838-4f6c-82bd-8db85fb89dd5/blob" width="80" title="AWS Databases">
-  <img src="https://images.credly.com/images/247efe36-9fa6-4209-ad56-0fd522283872/blob" width="80" title="AWS Machine Learning">
-</div>
-
-#### **IT & Fundamentals**
-<div align="left">
-  <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="80" title="Introduction to Cybersecurity">
-  <img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="80" title="Python Essentials 1">
-  <img src="https://images.credly.com/images/77b1ea15-6287-4d97-8ecd-c5afa2d137ea/image.png" width="80" title="English for IT 1">
-  <img src="https://images.credly.com/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" width="80" title="Introduction to IoT">
-</div>
-
----
-
----
-
 ### **Compétences Techniques**
 - **DevOps & Cloud:** Docker, Kubernetes (Bases), Jenkins, Linux (4/5).
 - **Observabilité:** Prometheus, Grafana, Loki, Promtail (4/5).
